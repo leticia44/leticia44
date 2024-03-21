@@ -1,7 +1,7 @@
 ## Seja bem-vindo ao meu perfil no GitHub! 
 
 - 🎓 Atualmente estou estudando **Desenvolvimento de Sistemas**.
-- 💡 Interessada em **desenvolvimento web** e **Banco de Dados**.
+- 💡 Interessada em **Desenvolvimento Web** e **Banco de Dados**.
 - 🌱 Aprendendo mais sobre **JavaScript**, **React** e **Node.js**.
 - 🤝 Aberta a colaborações em projetos **open source**.
 <div
