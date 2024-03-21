@@ -1,9 +1,16 @@
-## HI there
+## Oiii eu sou a Letícia Braga, criadora de conteúdo de programação e tecnologia!
+<div
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?leticia44=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leticia44&show_icons=true&theme=highcontrast)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?leticia44=anuraghazra&hide=contribs,prs)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?leticia44=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?leticia44=anuraghazra&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?leticia44=anuraghazra&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?leticia44=anuraghazra&show_icons=true&bg_color=00000000)
+  ##
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leticia44&layout=donut&theme=highcontrast)](https://github.com/leticia44/github-readme-stats)
+
+ </div>
+
+ 
+<div> 
+  <a href = "mailto:leticia.silva55gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/let%C3%ADcia-braga-27616623a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
