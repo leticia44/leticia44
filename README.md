@@ -3,8 +3,8 @@
 - 🎓 Atualmente estou estudando **Desenvolvimento de Sistemas**.
 - 💡 Interessada em **Desenvolvimento Web** e **Banco de Dados**.
 - 🌱 Aprendendo mais sobre **JavaScript**, **React** e **Node.js**.
-- 🤝 Aberta a colaborações em projetos **open source**.
-<div
+- 🤝 Aberta a colaborações em projetos **Open Source**.
+<div>
   
   ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leticia44&layout=donut&theme=highcontrast)](https://github.com/leticia44/github-readme-stats)
