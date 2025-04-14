@@ -1,8 +1,8 @@
-## Seja bem-vindo ao meu perfil no GitHub! 
+## Seja bem-vindo(a) ao meu perfil no GitHub! 
 
-- 🎓 Atualmente estou estudando **Desenvolvimento de Sistemas**.
-- 💡 Interessada em **Desenvolvimento Web** e **Banco de Dados**.
-- 🌱 Aprendendo mais sobre **JavaScript**, **React** e **Node.js**.
+- 🎓 Estudante de **Ciência da Computação** e Técnica em **Desenvolvimento de Sistemas** pelo SENAI.
+- 💻 Jovem Aprendiz em **Suporte de TI**, com experiência em Power BI, Excel e resolução de problemas técnicos.
+- 💡  Apaixonada por **Desenvolvimento Web** e **Banco de Dados**.
 - 🤝 Aberta a colaborações em projetos **Open Source**.
 <div>
   
